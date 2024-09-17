@@ -1,0 +1,99 @@
+/*IDs*/
+#nameprinc{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 3.2em;
+    align-items: center;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+#descprinc{
+    color: rgba(240, 248, 255, 0.767);
+    font-size: 1.2em;
+    text-align: center;
+}
+
+/*Classes*/
+.tbmain{
+    background-color: rgb(3, 3, 3);
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.icons{
+    width: 2em;
+    height: 2em;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+
+.textinfo{
+    text-align: justify;
+    font-size: large;
+    margin-right: 1em;
+}
+
+.flex{
+    display: flex;
+    margin-right: 1em;
+    justify-content: left;
+    align-items: center;
+}
+
+.texttitles{
+    margin-left: 0.4em;
+    font-size: 2.3em;
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
+
+.textp{
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+.lines{
+    color: rgba(109, 109, 109, 0.295);
+    margin-top: 2em;
+    border: solid 0.1em;
+}
+
+.ult_text{
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 2.3em;
+    font-size: 1.1em;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.671);
+}
+
+/*Tags*/
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: auto;
+    height: auto;
+    margin: 1em;
+    border: solid 1px;
+    border-color: rgba(0, 0, 0, 0.137);
+}
+
+span{
+    font-weight: bold;
+}
+
+li{
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 1.1em;
+    text-align: justify;
+    list-style-type: square;
+
+}
+
+a{
+    color: black;
+}
